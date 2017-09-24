@@ -1,0 +1,19 @@
+{
+  "name": "LEOPARD-OBC",
+  "version": "0.0.0",
+  "description": "<img src=\"http://static1.squarespace.com/static/56be17432b8dde53317647fc/t/571585e022482effba713a46/1492284284473/?format=1500w\" alt=\" \" class=\"Header-branding-logo\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophermorrison/LEOPARD-OBC.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophermorrison/LEOPARD-OBC/issues"
+  },
+  "homepage": "https://github.com/christophermorrison/LEOPARD-OBC#readme"
+}
