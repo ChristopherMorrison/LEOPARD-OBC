@@ -1,0 +1,2 @@
+Use this folder for Human interfacing with the hardware, will be used to send, recieve, and display basic status, raw text should be acceptable for most things.
+Calls here will be based on user events
